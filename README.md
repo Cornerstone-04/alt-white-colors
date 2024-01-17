@@ -5,4 +5,4 @@ A list of alternative colors to use instead of white - [colors code: #FFFFFF]
 - marble: "#F2F8FC",
 - pearl: "#FCFCF7",
 - lavender: "#F4F1F8",
-- "cold-steel": "#F8F7F4",
+- cold-steel: "#F8F7F4",
