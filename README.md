@@ -1,8 +1,8 @@
-# Alternative White Colors
-A list of alternative colors to use instead of white - [colors code: #FFFFFF]
+# Alternative White Colours
+A list of alternative colours to use instead of white - [colors code: #FFFFFF]
 
-- ivory: "#FFFFF0",
-- marble: "#F2F8FC",
-- pearl: "#FCFCF7",
-- lavender: "#F4F1F8",
-- cold-steel: "#F8F7F4",
+- ivory: `#fffff0`
+- marble: `#f2f8fC`
+- pearl: `#fcfcf7`
+- lavender: `#f4f1f8`
+- cold-steel: `#f8f7f4`
